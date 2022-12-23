@@ -1,2 +1,9 @@
 # DWT-DCT-SVD
 Hybrid Watermarking Technique for image authentication using biometrics
+
+The world is rising with tons of new features every minute, and there is a huge craze for secured software programs. One such software which uses the concept of biometrics is delivering the people with good requirements. But the software alone can’t meet all requirements and want to be secure. So we use the concept of biometric watermarking for advanced security of biometrics.This project is prepared for the students at beginner and intermediate level who aspire to understand biometrics and various biometric systems and to protect them using watermarking. To achieve this, a hybrid novel method of DWT-DCT-SVD is used for watermarking the biometric into a cover image
+
+The concept of biometric watermarking is used for advanced security of biometrics.Watermarking techniques have been used in biometric systems for the purpose of protecting and authenticating biometric data and enhancing accuracy of recognition. The  transform domain techniques used are DWT, DCT and SVD.
+ The DCT transform is mainly used to compress the data or image. DWT decomposes an image into a set of four non-overlapping multi-resolutions.The SVD of a matrix is orthogonal transforms used for matrix diagonalization. 
+Watermarking embedding can be done with each of the above mentioned techniques, but each one has some drawbacks with regards to some attacks. So, in order to overcome these drawbacks, we integrate all three techniques and make a hybrid system which is more robust and secure. This hybrid model withstands different image processing attacks. Thus, the final result does not change even after applying the attacks.
+Therefore, we can say this technique improves the security without altering the existing image data properties to a great extent.
